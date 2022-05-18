@@ -3,7 +3,7 @@ import './AboutUs.css'
 import Ishan from "../../Assets/ishan.jpeg"
 import Kiran from '../../Assets/kiranpreet.jpeg'
 import Dhruv from '../../Assets/Dhruv.jpg'
-import Varun from '../../Assets/Varun.webp'
+import Varun from '../../Assets/Varun.jpeg'
 
 const AboutUs = () => {
   return (
